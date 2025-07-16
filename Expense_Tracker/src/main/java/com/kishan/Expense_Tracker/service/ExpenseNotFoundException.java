@@ -7,3 +7,4 @@ public class ExpenseNotFoundException extends RuntimeException
         super(message);
     }
 }
+1
